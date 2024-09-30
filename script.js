@@ -99,6 +99,7 @@ document.addEventListener("DOMContentLoaded", () => {
         content: `<p>
         Селектори ідентифікаторів які я використовував:<br>
         <img src="imglab2/id.png" />
+        <img src="imglab2/id_form.png" />
         </p>`,
       },
       {
@@ -106,6 +107,7 @@ document.addEventListener("DOMContentLoaded", () => {
         content: `<p>
         Універсальні селектори:<br>
         <img src="imglab2/other.png" />
+        <img src="imglab2/other2.png" />
         </p>`,
       },
       {
