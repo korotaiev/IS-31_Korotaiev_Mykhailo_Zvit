@@ -136,7 +136,155 @@ document.addEventListener("DOMContentLoaded", () => {
         </p>`,
       },
     ],
-    lab3: [],
+    lab3: [
+      {
+        title: "Тема Мета Місце розташування сайту, звіту",
+        content: `
+        <h3>Тема:</h3>ВЕРСТКА HTML-ДОКУМЕНТУ. БЛОКОВА ВЕРСТКА.  ВЕРСТКА ЗАСОБАМИ CSS та FLEXBOX.
+        <h3>Мета:</h3>
+        <ul>
+          <li>придбати практичні навички роботи  верстки сторінок засобами CSS, 
+          верстки на основі плаваючих елементів, з’ясувати переваги та недоліки типів 
+          макетів веб-сторінок</li>
+          <li>придбати практичні навички роботи  верстки сторінок засобами CSS та FLEXBOX</li>
+        </ul>
+        <h3>Місце розташування сайту:</h3>
+        <h4>ЗАВДАННЯ №2</h4>
+        <p>
+        Фіксована таблична верстка github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab3.2_1<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab3.2_1/<br>
+        Гумова таблична верстка github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab3.2_2<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab3.2_2/<br>
+        Фіксована блокова верстка github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab3.2_3<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab3.2_3/<br>
+        Гумова блокова верстка github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab3.2_4<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab3.2_4/<br>
+        </p>
+        <h4>ЗАВДАННЯ №3</h4>
+        <p>
+        github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab3.3<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab3.3/<br>
+        </p>
+        `,
+      },
+      {
+        title: "ЗАВДАННЯ №1 Зовнішній вигляд макету. Код макету",
+        content: `<p>
+        <img style="width: 70%" src="imglab3/maket.png" />
+        <img src="imglab3/cod-maket.png" />
+        </p>
+        `,
+      },
+      {
+        title: "ЗАВДАННЯ №2",
+        content: `<p>
+        <h2>ЗАВДАННЯ №2</h2>
+        <img src="imglab3/zavdanya2.png" />
+        </p>`,
+      },
+      {
+        title: "Фіксована таблична верстка",
+        content: `<p>
+        <h2>Html код:</h2>
+        <img src="imglab3/fics_table.png" />
+        <h2>Css код:</h2>
+        <img src="imglab3/fics_table-css.png" />
+        <img src="imglab3/fics_table.css2.png" />
+        <h2>Сайт:</h2>
+        <img src="imglab3/fics-pic.png" />
+        </p>`,
+      },
+      {
+        title: "Гумова таблична верстка",
+        content: `<p>
+        <h2>Html код:</h2>
+        <img src="imglab3/fics_table.png" />
+        <h2>Css код:</h2>
+        <img src="imglab3/flex_table-css.png" />
+        <img src="imglab3/flex_table-css2.png" />
+        <h2>Сайт:</h2>
+        <img style="width: 70%" src="imglab3/flex_table-pic.png" />
+        <img style="width: 70%" src="imglab3/flex_table-pic2.png" />
+        </p>`,
+      },
+      {
+        title: "Фіксована блокова верстка",
+        content: `<p>
+        <h2>Html код:</h2>
+        <img src="imglab3/block_fics.png" />
+        <h2>Css код:</h2>
+        <img src="imglab3/fics_block-css.png" />
+        <h2>Сайт:</h2>
+        <img src="imglab3/fics_block-pic.png" />
+        </p>`,
+      },
+      {
+        title: "Гумова блокова верстка",
+        content: `<p>
+        <h2>Html код:</h2>
+       <img src="imglab3/block_fics.png" />
+        <h2>Css код:</h2>
+        <img src="imglab3/block-flex-css.png" />
+        <h2>Сайт:</h2>
+        <img src="imglab3/flex-block-pic.png" />
+        <img src="imglab3/flex-block-pic2.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №3 FLEXBOX",
+        content: `<p>
+        <h2>ЗАВДАННЯ №3 FLEXBOX</h2>
+        <img src="imglab3/zavdanya3.png" />
+        </p>`,
+      },
+      {
+        title: "Скріншот сторінки (Flexbox)",
+        content: `<p>
+        <img style="width: 70%" src="imglab3/3-pic.png" />
+        <img style="width: 70%" src="imglab3/3-pic2.png" />
+        <img style="width: 70%" src="imglab3/3-pic3.png" />
+        </p>`,
+      },
+      {
+        title: "HTML-код (Flexbox)",
+        content: `<p>
+        <img src="imglab3/3-index.png" />
+        </p>`,
+      },
+      {
+        title: "CSS-код (Flexbox)",
+        content: `<p>
+        <img src="imglab3/3-css.png" />
+        </p>`,
+      },
+      {
+        title: "ВИСНОВКИ",
+        content: `<p>
+        В процесі досягнення мети щодо опанування навичок верстки сторінок засобами CSS, 
+        було здобуто розуміння як базових технік верстки, так і застосування сучасних 
+        методів, таких як Flexbox. Це дозволило на практиці ознайомитися з перевагами та 
+        недоліками різних підходів до макетування веб-сторінок.<br>
+        Порівнюючи використання плаваючих елементів і Flexbox, можна відзначити, що 
+        Flexbox надає більшу гнучкість в адаптивному дизайні та спрощує управління 
+        просторовим розташуванням елементів без необхідності складної системи медіа-запитів. 
+        Плаваючі елементи мають свої переваги в простих макетах, але Flexbox дозволяє 
+        створювати більш складні та інтерактивні компоненти з меншою кількістю коду.<br>
+        Таким чином, практична робота з версткою за допомогою CSS та Flexbox дозволила 
+        краще зрозуміти переваги сучасних інструментів і технологій для створення 
+        адаптивних та ефективних веб-сторінок.
+        </p>`,
+      },
+    ],
   };
 
   function updateSidebar(labId) {
