@@ -285,6 +285,61 @@ document.addEventListener("DOMContentLoaded", () => {
         </p>`,
       },
     ],
+    lab4: [
+      {
+        title: "Тема Мета Місце розташування сайту, звіту",
+        content: `<p>
+        <h3>Тема:</h3>АДАПТИВНА ВЕРСТКА. МЕДІА-ЗАПИТИ. МЕТАТЕГ VIEWPORT. СТРАТЕГІЯ MOBILE FIRST.  
+        <h3>Мета:</h3>
+        Адаптивна верстка. Медіа-запити. Медіа-типи. Медіа-функції.Метатег viewport. 
+        Інструменти розробника. Стратегія Mobile First. 
+        <h3>Місце розташування сайту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab4<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab4/<br>
+        <h3>Місце розташування звіту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS-31_Korotaiev_Mykhailo_Zvit<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS-31_Korotaiev_Mykhailo_Zvit/Labs.html<br>
+        </p>`,
+      },
+      {
+        title: "Десктопна версія",
+        content: `<p>
+        <img style="width: 100%" src="imglab4/desktop.png" />
+        </p>`,
+      },
+      {
+        title: "Планшетна версія",
+        content: `<p>
+        <img style="width: 100%" src="imglab4/tablet.png" />
+        <img style="width: 100%" src="imglab4/cod-tablet.png" />
+        </p>`,
+      },
+      {
+        title: "Мобільна версія",
+        content: `<p>
+        <img style="width: 100%" src="imglab4/phone.png" />
+        <img style="width: 100%" src="imglab4/cod-phone.png" />
+        </p>`,
+      },
+      {
+        title: "Висновок",
+        content: `<p>
+        Адаптивна верстка є ключовим підходом до створення веб-сторінок, що забезпечує 
+        їх правильне відображення на різних пристроях і розмірах екранів. Використання 
+        медіа-запитів, медіа-типів та медіа-функцій дозволяє налаштовувати стилі в 
+        залежності від характеристик пристроїв, таких як ширина екрану або орієнтація. 
+        Метатег viewport відіграє важливу роль у правильному масштабуванні сторінки на 
+        мобільних пристроях. Інструменти розробника допомагають у процесі тестування та 
+        налагодження адаптивного дизайну. Стратегія Mobile First забезпечує оптимізацію
+        сайту, починаючи з мобільних пристроїв, і дозволяє створювати швидкі та ефективні
+        інтерфейси для всіх користувачів.
+        </p>`,
+      },
+    ],
   };
 
   function updateSidebar(labId) {
