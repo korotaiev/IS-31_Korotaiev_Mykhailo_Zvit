@@ -180,8 +180,8 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "ЗАВДАННЯ №1 Зовнішній вигляд макету. Код макету",
         content: `<p>
-        <img style="width: 70%" src="imglab3/maket.png" />
-        <img src="imglab3/cod-maket.png" />
+        <img style="width: 70%" src="imglab3/desktop.png" />
+        <img src="imglab3/flex-lab3.png" />
         </p>
         `,
       },
