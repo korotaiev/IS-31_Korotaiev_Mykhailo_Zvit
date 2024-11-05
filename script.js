@@ -340,6 +340,80 @@ document.addEventListener("DOMContentLoaded", () => {
         </p>`,
       },
     ],
+    lab5: [
+      {
+        title: "Тема Мета Місце розташування сайту, звіту",
+        content: `<p>
+        <h3>Тема:</h3>ФУНКЦІОНАЛЬНЕ ЗАСТОСУВАННЯ JAVASCRIPT У HTML-ДОКУМЕНТІ. 
+        ВИКОРИСТАННЯ МАСИВІВ У JS-СЦЕНАРІЯХ. РЕАЛІЗАЦІЯ ПРОГРАМ ЗАСОВАМИ МОВИ JAVASCRIPT
+  
+        <h3>Мета:</h3>
+        придбати практичні навички роботи з конструкціями мови JS, масивами та фугкціями у 
+        js-сценаріях.  Реалізація програм засовами мови JAVASCRIPT 
+        <h3>Місце розташування сайту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab5<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab5/<br>
+        <h3>Місце розташування звіту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS-31_Korotaiev_Mykhailo_Zvit<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS-31_Korotaiev_Mykhailo_Zvit/Labs.html<br>
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №1",
+        content: `<p>
+        <img style="width: 100%" src="imglab5/Task1.png" />
+        <img src="imglab5/imgTask1.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №2",
+        content: `<p>
+        <img style="width: 100%" src="imglab5/Task2.png" />
+        <img src="imglab5/imgTask2.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №3",
+        content: `<p>
+        <img style="width: 100%" src="imglab5/Task3.png" />
+        <img src="imglab5/imgTask3.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №4",
+        content: `<p>
+        <img style="width: 100%" src="imglab5/Task4.png" />
+        <img style="width: 100%" src="imglab5/Task4(2).png" />
+        <img src="imglab5/imgTask4.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №5",
+        content: `<p>
+        <img style="width: 100%" src="imglab5/Task5.png" />
+        <img style="width: 100%" src="imglab5/Task5(2).png" />
+        <img style="width: 100%" src="imglab5/Task5(3).png" />
+        <img src="imglab5/imgTask5.png" />
+        </p>`,
+      },
+      {
+        title: "ВИСНОВКИ",
+        content: `<p>
+        У ході виконання практичної роботи було набуто цінний досвід роботи з 
+        основними конструкціями мови JavaScript, зокрема з масивами та функціями, 
+        що дозволяє створювати інтерактивні веб-сторінки та вирішувати різні програмні 
+        задачі. Застосування масивів у JavaScript дозволило ефективно обробляти й 
+        зберігати дані, а використання функцій – розбивати код на окремі логічні частини, 
+        що полегшує його підтримку та масштабування. Отримані знання та навички є 
+        фундаментом для подальшого вивчення веб-програмування та розробки більш складних 
+        програмних рішень з використанням JavaScript.
+        </p>`,
+      },
+    ],
   };
 
   function updateSidebar(labId) {
