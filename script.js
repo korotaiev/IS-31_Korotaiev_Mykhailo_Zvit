@@ -414,6 +414,85 @@ document.addEventListener("DOMContentLoaded", () => {
         </p>`,
       },
     ],
+    lab6: [
+      {
+        title: "Тема Мета Місце розташування сайту, звіту",
+        content: `<p>
+        <h3>Тема:</h3>ОБ'ЄКТ. МЕТОДИ ОБ'ЄКТА. МАСИВ ОБ'ЄКТІВ. ДЕСТРУКТУРИЗАЦІЯ ОБ'ЄКТІВ. 
+        CALLBACK. СТРІЛОЧНІ ФУНКЦІЇ. СТРІЛОЧНІ ФУНКЦІЇ ЯК КОЛБЕКИ.
+  
+        <h3>Мета:</h3>
+        придбати практичні навички роботи з об'єктами. Методи об'єкта.. Callback. 
+        Стрілочні функції. Стрілочні функції як колбеки. Реалізація програм засовами мови JAVASCRIPT
+ 
+        <h3>Місце розташування сайту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab6<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab6/<br>
+        <h3>Місце розташування звіту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS-31_Korotaiev_Mykhailo_Zvit<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS-31_Korotaiev_Mykhailo_Zvit/Labs.html<br>
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №1",
+        content: `<p>
+        <img style="width: 100%" src="imglab6/task1.png" />
+        <img src="imglab6/imgtask1.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №3",
+        content: `<p>
+        <img style="width: 100%" src="imglab6/task3.png" />
+        <img src="imglab6/imgtask3.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №5",
+        content: `<p>
+        <img style="width: 100%" src="imglab6/task5.png" />
+        <img src="imglab6/imgtask5.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №7",
+        content: `<p>
+        <img style="width: 100%" src="imglab6/task7.png" />
+        <img src="imglab6/imgtask7.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №9",
+        content: `<p>
+        <img style="width: 100%" src="imglab6/task9.png" />
+        <img src="imglab6/imgtask9.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №10",
+        content: `<p>
+        <img style="width: 100%" src="imglab6/task10.png" />
+        <img src="imglab6/imgtask10.png" />
+        </p>`,
+      },
+      {
+        title: "ВИСНОВКИ",
+        content: `<p>
+        При виконанні лабораторної роботи я навчився працювати з об'єктами в JavaScript, 
+        створювати їх і змінювати властивості, а також використовувати методи об'єкта для 
+        зручної обробки даних. Я засвоїв, як застосовувати колбек-функції, що дозволяють 
+        виконувати інші функції всередині методів, таких як map, filter та reduce. Окрім 
+        цього, я опанував використання стрілочних функцій як колбеків, що допомагає 
+        зробити код компактнішим і більш зрозумілим. Це практичне завдання значно 
+        поглибило моє розуміння мови JavaScript і підготувало до вирішення більш складних 
+        завдань у майбутньому.
+        </p>`,
+      },
+    ],
   };
 
   function updateSidebar(labId) {
