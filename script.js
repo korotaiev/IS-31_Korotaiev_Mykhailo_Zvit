@@ -493,6 +493,91 @@ document.addEventListener("DOMContentLoaded", () => {
         </p>`,
       },
     ],
+    lab7: [
+      {
+        title: "Тема Мета Місце розташування сайту, звіту",
+        content: `<p>
+        <h3>Тема:</h3>КЛАСИ. ОБ'ЄКТНА МОДЕЛЬ ДОКУМЕНТА (DOM). ПОДІЇ. ОБ'ЄКТ ПОДІЇ. 
+        ДЕЛЕГУВАННЯ ПОДІЙ. 
+  
+        <h3>Мета:</h3>
+        придбати практичні навички роботи з об'єктами. Методи об'єкта.. Callback. 
+        Стрілочні функції. Стрілочні функції як колбеки. Реалізація програм засовами мови JAVASCRIPT
+ 
+        <h3>Місце розташування сайту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab7<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab7/<br>
+        <h3>Місце розташування звіту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS-31_Korotaiev_Mykhailo_Zvit<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS-31_Korotaiev_Mykhailo_Zvit/Labs.html<br>
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №1",
+        content: `<p>
+        <img style="width: 100%" src="imglab7/task1.png" />
+        <img style="width: 100%" src="imglab7/imgtask1.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №3",
+        content: `<p>
+        <img style="width: 100%" src="imglab7/task3.png" />
+        <img style="width: 100%" src="imglab7/imgtask3.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №5",
+        content: `<p>
+        <img style="width: 100%" src="imglab7/task5.png" />
+        <img style="width: 100%" src="imglab7/imgtask5.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №7",
+        content: `<p>
+        <img style="width: 100%" src="imglab7/task7.png" />
+        <img style="width: 100%" src="imglab7/imgtask7.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №8",
+        content: `<p>
+        <img style="width: 100%" src="imglab7/task8.png" />
+        <img style="width: 100%" src="imglab7/imgtask8.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №9",
+        content: `<p>
+        <img style="width: 100%" src="imglab7/task9.png" />
+        <img style="width: 100%" src="imglab7/imgtask9.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №10",
+        content: `<p>
+        <img style="width: 100%" src="imglab7/task10.png" />
+        <img style="width: 100%" src="imglab7/imgtask10.png" />
+        </p>`,
+      },
+      {
+        title: "ВИСНОВКИ",
+        content: `<p>
+        При виконанні лабораторної роботи я навчився використовувати класи для 
+        створення організованого коду, працювати з об'єктною моделлю документа (DOM) 
+        для динамічного управління елементами сторінки, а також обробляти події за 
+        допомогою об'єкта події. Особливу увагу я приділив делегуванню подій, яке 
+        дозволяє ефективно керувати великою кількістю елементів і зменшувати кількість 
+        обробників. Ці знання дали мені змогу створювати інтерактивні веб-додатки, які 
+        є більш функціональними та оптимізованими.
+        </p>`,
+      },
+    ],
   };
 
   function updateSidebar(labId) {
