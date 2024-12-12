@@ -578,6 +578,58 @@ document.addEventListener("DOMContentLoaded", () => {
         </p>`,
       },
     ],
+    lab8: [
+      {
+        title: "Тема Мета Місце розташування сайту, звіту",
+        content: `<p>
+        <h3>Тема:</h3>WEB-СХОВИЩЕ. WEB STORAGE API. МОДУЛЬНОСТЬ  КОДУ. СТВОРЕННЯ 
+        МОДАЛЬНОГО ВІКНА. ДЕЛЕГУВАННЯ ПОДІЙ.
+  
+        <h3>Мета:</h3>
+        придбати практичні навички роботи створення модального вікна; повторити процес 
+        створення макету, зокрема створення макету галереї довільних зображень; закріпити 
+        навички роботи з делегуванням подій.
+ 
+        <h3>Місце розташування сайту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS_31_Korotaiev_Mykhailo_Lab8<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS_31_Korotaiev_Mykhailo_Lab8/<br>
+        <h3>Місце розташування звіту:</h3>
+        github:<br>
+        https://github.com/korotaiev/IS-31_Korotaiev_Mykhailo_Zvit<br>
+        Жива сторінка:<br>
+        https://korotaiev.github.io/IS-31_Korotaiev_Mykhailo_Zvit/Labs.html<br>
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №1",
+        content: `<p>
+        <img style="width: 100%" src="imglab8/task1.png" />
+        <img style="width: 100%" src="imglab8/imgtask1.png" />
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №2",
+        content: `<p>
+        <img style="width: 100%" src="imglab8/task2.png" />
+        <img style="width: 100%" src="imglab8/task2_2.png" />
+        <img style="width: 100%" src="imglab8/imgtask2.png" />
+        </p>`,
+      },
+      {
+        title: "ВИСНОВКИ",
+        content: `<p>
+        При виконанні лабораторної роботи було здобуто практичні навички створення 
+        модального вікна для взаємодії з користувачем, що дозволило закріпити розуміння 
+        динамічної роботи елементів інтерфейсу. Повторення процесу створення макету, 
+        зокрема макету галереї з довільними зображеннями, сприяло покращенню навичок у 
+        роботі з DOM-структурою та CSS-стилями. Окрім того, було закріплено принципи 
+        роботи з делегуванням подій, що допомогло оптимізувати код і забезпечити ефективну 
+        обробку взаємодій користувача з елементами галереї.
+        </p>`,
+      },
+    ],
   };
 
   function updateSidebar(labId) {
