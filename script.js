@@ -22,19 +22,28 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         title: "СТРУКТУРА ДОКУМЕНТА",
-        content: '<img src="imglab1/структура.png" />',
+        content: `
+        <h3>Скріншот структури документа:</h3>
+        <img src="imglab1/структура.png" />
+        `,
       },
       {
         title: "HTML-код ТАБЛИЦЬ",
-        content: '<img  src="imglab1/table.png" />',
+        content: `
+        <h3>Скріншот HTML-код ТАБЛИЦЬ:</h3>
+        <img  src="imglab1/table.png" />`,
       },
       {
         title: "HTML-код ФОРМ",
-        content: '<img  src="imglab1/form.png" />',
+        content: `
+        <h3>Скріншот HTML-код ФОРМ:</h3>
+        <img  src="imglab1/form.png" />`,
       },
       {
         title: "HTML-код ЗОБРАЖЕННЯ",
-        content: '<img  src="imglab1/images.png" />',
+        content: `
+        <h3>Скріншот HTML-код ЗОБРАЖЕННЯ:</h3>
+        <img  src="imglab1/images.png" />`,
       },
       {
         title: "ВИСНОВКИ",
@@ -179,10 +188,11 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         title: "ЗАВДАННЯ №1 Зовнішній вигляд макету. Код макету",
-        content: `<p>
+        content: `
+        <h3>Скріншот зовнішній вигляд макету:</h3>
         <img style="width: 70%" src="imglab3/desktop.png" />
+        <h3>Скріншот код макету:</h3>
         <img src="imglab3/flex-lab3.png" />
-        </p>
         `,
       },
       {
@@ -307,21 +317,26 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         title: "Десктопна версія",
-        content: `<p>
+        content: `
+        <h3>Скріншот десктопної версії:</h3>
         <img style="width: 100%" src="imglab4/desktop.png" />
-        </p>`,
+        `,
       },
       {
         title: "Планшетна версія",
         content: `<p>
+        <h3>Скріншот планшетної версії:</h3>
         <img style="width: 100%" src="imglab4/tablet.png" />
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab4/cod-tablet.png" />
         </p>`,
       },
       {
         title: "Мобільна версія",
         content: `<p>
+        <h3>Скріншот мобільної версії:</h3>
         <img style="width: 100%" src="imglab4/phone.png" />
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab4/cod-phone.png" />
         </p>`,
       },
@@ -365,38 +380,48 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "ЗАВДАННЯ №1",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab5/Task1.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab5/imgTask1.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №2",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab5/Task2.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab5/imgTask2.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №3",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab5/Task3.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab5/imgTask3.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №4",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab5/Task4.png" />
         <img style="width: 100%" src="imglab5/Task4(2).png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab5/imgTask4.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №5",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab5/Task5.png" />
         <img style="width: 100%" src="imglab5/Task5(2).png" />
         <img style="width: 100%" src="imglab5/Task5(3).png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab5/imgTask5.png" />
         </p>`,
       },
@@ -440,42 +465,54 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "ЗАВДАННЯ №1",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab6/task1.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab6/imgtask1.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №3",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab6/task3.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab6/imgtask3.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №5",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab6/task5.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab6/imgtask5.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №7",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab6/task7.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab6/imgtask7.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №9",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab6/task9.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab6/imgtask9.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №10",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab6/task10.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img src="imglab6/imgtask10.png" />
         </p>`,
       },
@@ -519,49 +556,63 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "ЗАВДАННЯ №1",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab7/task1.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab7/imgtask1.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №3",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab7/task3.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab7/imgtask3.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №5",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab7/task5.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab7/imgtask5.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №7",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab7/task7.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab7/imgtask7.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №8",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab7/task8.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab7/imgtask8.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №9",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab7/task9.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab7/imgtask9.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №10",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab7/task10.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab7/imgtask10.png" />
         </p>`,
       },
@@ -605,15 +656,19 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "ЗАВДАННЯ №1",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab8/task1.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab8/imgtask1.png" />
         </p>`,
       },
       {
         title: "ЗАВДАННЯ №2",
         content: `<p>
+        <h3>Скріншот коду:</h3>
         <img style="width: 100%" src="imglab8/task2.png" />
         <img style="width: 100%" src="imglab8/task2_2.png" />
+        <h3>Скріншот виконання коду:</h3>
         <img style="width: 100%" src="imglab8/imgtask2.png" />
         </p>`,
       },
